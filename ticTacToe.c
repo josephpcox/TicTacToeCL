@@ -1,5 +1,5 @@
-/* Joseph Cox                                         *
- *                                         *
+/* Joseph Cox                                                                 *
+ *                                                                            *
  * ticTacToe.c                         6/21/17                                *
  *                                                                            *
  * @Def: C program creats a game of tic-tac-toe and allows the user to play   *
